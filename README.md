@@ -6,3 +6,5 @@ git commit -m "First
  commit" -m "some description"
 
  git push origin main
+ ##Local dev
+ 1. Open index.html and stuff
