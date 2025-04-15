@@ -8,3 +8,5 @@ git commit -m "First
  git push origin main
  ##Local dev
  1. Open index.html and stuff
+ git diff
+ git merge
