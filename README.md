@@ -10,3 +10,4 @@ git commit -m "Firstcommit" -m "some description"
  git diff
  git merge
  git branch -d features
+ check push
